@@ -4,7 +4,7 @@ This repository holding the product analysis I have worked on before.
 <br><br>
 
 ### Dataset
-The dataset used in this project is from IBM Sample Data Sets, which hosted on [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn). For more information, please refers to the Kaggle dataset description.
+The dataset used in these Case Study Project are from Kaggle. For more information, please refers to the Kaggle dataset description.
 <br><br>
 
 ### Content
