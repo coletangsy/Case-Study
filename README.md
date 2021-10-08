@@ -1,10 +1,10 @@
 
 ### Introduction
-This repository holding the product analysis I have worked on before.
+This repository holding the simple analysis exercise and capstone projects I have worked on before.
 <br><br>
 
 ### Dataset
-The dataset used in these Case Study Project are from Kaggle. For more information, please refers to the Kaggle dataset description.
+The dataset used in these Case Study are from Kaggle. For more information, please refers to the Kaggle dataset description.
 <br><br>
 
 ### Content
